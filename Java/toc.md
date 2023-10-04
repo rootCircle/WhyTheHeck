@@ -1,5 +1,8 @@
 <!-- TOC for Java Programs -->
 
+# Ready to Embark on a Java Adventure?
+### Get ready to venture into the thrilling world of Java! Below, you'll find a list of Java programs that will challenge your coding skills and elevate your understanding of this versatile language.
+
 <style>
     .auto-width {
         width: auto;
@@ -9,6 +12,9 @@
         text-overflow: ellipsis; 
     }
 </style>
+
+<br/>
+<br/>
 
 | File | <div class="auto-width">Description</div> | <div class="auto-width">Did You Expect?</div> | <div class="auto-width">Actual Output</div> | <div class="auto-width">Explanation</div> |
 | --- | --- | --- | --- | --- |
