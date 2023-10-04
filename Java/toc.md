@@ -11,12 +11,13 @@
         overflow: hidden; 
         text-overflow: ellipsis; 
     }
+    
 </style>
 
 <br/>
 <br/>
 
-| File | <div class="auto-width">Description</div> | <div class="auto-width">Did You Expect?</div> | <div class="auto-width">Actual Output</div> | <div class="auto-width">Explanation</div> |
+| <div align="center">File</div> | <div class="auto-width" align="center">Description</div> | <div class="auto-width" align="center">Did You Expect?</div> | <div class="auto-width" align="center">Actual Output</div> | <div class="auto-width" align="center">Explanation</div> |
 | --- | --- | --- | --- | --- |
 | equalString.java | <div class="auto-width">Comparing Strings in Java</div> | <div class="auto-width">Hello Verbose! I am JAVA</div> | <div class="auto-width">Love JAVA! Hate world</div> | <div class="auto-width">String is an object in Java.<br>The '==' operator compares memory references for objects, including strings. To compare the content of strings, use the '.equals()' method, whereas for other data types, '==' compares their values.</div> |
 | forGame.java | <div class="auto-width">Misplaced semicolons terminate if and for statements prematurely</div> | <div class="auto-width">Got print only once! So sad<br>Got print only once! So sad<br>Got print only once! So sad<br>Got print only once! So sad<br>Got print only once! So sad<br>Got print only once! So sad<br>Got print only once! So sad<br>Got print only once! So sad<br>Got print only once! So sad<br>Got print only once! So sad</div> | <div class="auto-width">10 is not equal to 10<br>Got print only once! So sad</div> | <div class="auto-width">The semicolons (;) immediately following the if statement and the for loop act as terminators for those statements, causing them to execute without any associated block. Consequently, the code inside the curly braces is treated as a separate, unrelated block of code, which is why it executes unconditionally.</div> |
