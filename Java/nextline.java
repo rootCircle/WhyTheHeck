@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nextline {
+public class Nextline {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); // Scanner is used to take input in java
         System.out.println("Enter a number :"); // Used to Print a Statement
