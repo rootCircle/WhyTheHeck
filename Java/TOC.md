@@ -65,5 +65,19 @@
          <td>When you use sc.nextInt() to read an integer input, it consumes the integer value but leaves the newline character (Enter key press) in the input buffer. When you then call sc.nextLine(), it reads the remaining newline character from the previous input, which appears as if it's not allowing you to enter a new string.Obviously this problem will not affect other data type inputs except string and char</td>
          <td>&nbsp;</td>
       </tr>
+      <tr>
+         <td>
+            <h2><a href="https://github.com/rootCircle/WhyTheHeck/blob/main/Java/BubbleSort.java">BubbleSort.java</a></h2>
+         </td>
+         <td>Program to sort array in ascending order using bubblesort</td>
+         <td>
+            [1, 3, 4, 7, 9]
+         </td>
+         <td>
+            [9, 7, 4, 3, 1]
+         </td>
+         <td>In the internal for loop of bubble sort, we are compare if the jth element is less than (j+1)th element and then it performs swap, whereas the swap should be performed when jth element is greater than (j+1)th element.</td>
+         <td>&nbsp;</td>
+      </tr>
    </tbody>
 </table>
