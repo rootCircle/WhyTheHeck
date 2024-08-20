@@ -44,4 +44,5 @@ Note: This method is suitable for quick tests and debugging but may have limitat
 
 ## Fun
 
+- [JavaScript WTF](https://javascriptwtf.com/)
 - [For more info](https://www.destroyallsoftware.com/talks/wat)
